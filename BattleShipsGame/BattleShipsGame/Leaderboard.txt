@@ -1,0 +1,17 @@
+Mihai,8,0,2
+Andreea,11,1,1
+Elena,5,1,1
+Vlad,5,1,1
+Bianca,12,3,0
+Cosmin,4,1,0
+Florin,3,1,2
+Gabriel,3,1,1
+Andrei,10,3,0
+Laura,6,2,1
+Oana,9,3,1
+Dan,12,4,1
+Radu,8,3,2
+Maria,4,2,3
+Adrian,2,1,1
+Alina,8,5,2
+Razvan,6,5,1
